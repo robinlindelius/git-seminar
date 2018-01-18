@@ -1,6 +1,6 @@
 # Welcome to the git-seminar repository
 
-## TODO list for today
+### TODO list for today
 
 - [x] Learn git
   - [x] Branching
@@ -9,3 +9,5 @@
   - [x] Pull requests and forks
 
 - [ ] Follow Simone on GitHub
+
+- [x] **Be happy**
